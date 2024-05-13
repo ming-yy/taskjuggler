@@ -345,6 +345,7 @@ resourcereport contactList "" {
   hidetask @all
 }
 
+
 # A graph showing resource allocation. It identifies whether each
 # resource is under- or over-allocated for.
 resourcereport resourceGraph "" {
